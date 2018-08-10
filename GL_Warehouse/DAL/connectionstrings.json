@@ -1,0 +1,3 @@
+﻿{
+  "defaultConnection": "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\1\\Source\\Repos\\GL_Warehouse\\DAL\\Warehouse.mdf;Integrated Security=True;Connect Timeout=30"
+}

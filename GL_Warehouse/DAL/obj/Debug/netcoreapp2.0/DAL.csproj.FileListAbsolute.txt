@@ -1,0 +1,7 @@
+c:\users\1\Source\Repos\GL_Warehouse\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+c:\users\1\Source\Repos\GL_Warehouse\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+c:\users\1\Source\Repos\GL_Warehouse\DAL\obj\Debug\netcoreapp2.0\DAL.csprojResolveAssemblyReference.cache
+c:\users\1\Source\Repos\GL_Warehouse\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+c:\users\1\Source\Repos\GL_Warehouse\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+c:\users\1\Source\Repos\GL_Warehouse\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+C:\Users\1\Source\Repos\GL_Warehouse\DAL\bin\Debug\netcoreapp2.0\Models.dll
